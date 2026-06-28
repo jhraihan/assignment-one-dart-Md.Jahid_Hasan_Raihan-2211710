@@ -50,9 +50,9 @@ String getGrade(int score) {
 
 void main() {
   // TODO: Initialize your variables with appropriate values
-  String name = 'Fahim Mahtab';
-  int age = 26;
-  double height = 1.7018; // Converted Height from inches to meters manually
+  String name = 'Md. Jahid Hasan Raihan';
+  int age = 25;
+  double height = 1.8018; // Converted Height from inches to meters manually
   bool isStudent = true;
 
   // TODO: Calculate BMI and grade
